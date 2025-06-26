@@ -40,7 +40,8 @@ alt="termux🌚" height="30" width="40" /></a>
 Please note that root access is required.  
 ### Installation one line
 ```console
-curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+curl -sSf https://raw.githubusercontent.com/frnwot/FARHAN-Shot_Termux_installer/master/installer.sh | bash
+
 ```
 
 ### How to update WifiHack
