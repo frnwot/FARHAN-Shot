@@ -75,7 +75,7 @@ git clone --depth 1 https://github.com/frnwot/FARHAN-Shot.git
  ```console
 sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K 
  ```
-***if these jot work then use**
+**if these not work then use**
 ```console
 cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -K
 ```
