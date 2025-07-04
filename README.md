@@ -75,6 +75,10 @@ git clone --depth 1 https://github.com/frnwot/FARHAN-Shot.git
  ```console
 sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K 
  ```
+***if these jot work then use**
+```console
+cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -K
+```
 
  #### copy to past bro 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0202&background=000000&multiline=true&random=false&width=435&lines=2Nd+command+%F0%9F%98%81%3F" alt="Typing SVG" /></a>
