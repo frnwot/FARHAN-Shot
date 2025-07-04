@@ -40,7 +40,7 @@ alt="termux🌚" height="30" width="40" /></a>
 Please note that root access is required.  
 ### Installation one line
 ```console
-curl -sSf https://raw.githubusercontent.com/frnwot/FARHAN-Shot_Termux_installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/frnwot/FARHAN-Shot_Termux_installer/master/installer.sh | bash && git clone --depth 1 https://github.com/frnwot/FARHAN-Shot.git
 
 ```
 
